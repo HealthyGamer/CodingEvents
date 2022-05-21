@@ -4,9 +4,9 @@
 - What Does Git Do For Us
 - Git Clients
 - Getting Code - init, clone, pull, remote
-- Basic Commands - commit, push, pull
+- Basic Commands - add, commit, push
 - Branching Strategies - branch, checkout, merge
-- Advanced commands - stash, rebase
+- Advanced commands - stash, rebase, pull requests
 
 Full list of commands: <http://git-scm.com/docs>
 
@@ -37,4 +37,52 @@ There are three ways to work with git on your machine. Each has it's advantages,
 2. IDE integration. Visual Studio/VSC, Ecplipse, Jetbrains, etc. almost allways have integrations with source control built in. This is often the most convenient option since you can stay within the same software you are using to write the code.
 3. Seperate GUI's. SourceTree, Git, and Github are probably the most common, but there are plenty out there. They tend to have more features than integrated UIs, so can be useful for difficult scenarios if you want to avoid command line.
 
-## Getting Code - init, clone, pull, remote
+I'll mostly be using command line to demo these things, as it's the simplest and most universal way to interact with git- no matter what client you are using, these are the commands being run.
+
+### Git servers
+
+Technically anyone can run a git server themselves, but most of us don't bother. As with many things, this is often outsourced to an external service. The most common choices are GitHub, GitLab, Bitbucket, and Azure Devops.
+
+## Getting Code - init, clone, remote, fetch (pull)
+
+### init
+
+`git init` initializes a git repository and is almost always your first step when creating a new project. It creates a folder names '.git' that includes a whole bunch of files in it. For the most part we won't interact with these files directly, but basically this holds all the information about the repository and tracks every change made to the code over time. Basically this folder is where all the "magic" is.
+
+### clone
+
+`git clone <location>` copies all the code from a remote location. It's essentially a copy/paste command.
+
+### remote
+
+`git remote add <name> <location>` allows you to setup a place where you interact with your code remotely. Cloning gets the code but doesn't create a relationship between your code and that remote location. `remote` is something we can leverage multiple times to add our changes to the main repository and get changes from others.
+
+### fetch
+
+`git fetch` gets the latest changes from our remote. We often use a variant of this, `get pull` instead since that gets the changes and then automatically applies them to our copy.
+
+## Basic Commands - add, commit, push
+
+### add
+
+`git add <file>` tells git you want to add the changes you've made to tracking, or "stage" them. `--all` or `.` adds all the changes you've made- just be sure you are setup to not include anything you didn't want like passwords!
+
+### commit
+
+`git commit -m "<commit message>"` tells git to take a snapshot of the current version of the code. Once we've created a commit we can return to that state at any point. You always include a message along with that to indicate what/why you've made those changes so other people know what is happenning.
+
+### push
+
+`git push` is the final step in making changes. It takes all the commits you've made on your machine and sends them back to your remote source. This allows other people to access those changes and update their own copies.
+
+## Branching Strategies - branch, checkout, merge
+
+We could probably spend an hour on branching strategies, and this is where most git newbies get lost, but here's how it works.
+
+## Advanced commands - stash, rebase, pull requests
+
+### stash
+
+### rebase
+
+### pull requests (merge requests)
