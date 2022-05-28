@@ -75,14 +75,75 @@ Technically anyone can run a git server themselves, but most of us don't bother.
 
 `git push` is the final step in making changes. It takes all the commits you've made on your machine and sends them back to your remote source. This allows other people to access those changes and update their own copies.
 
-## Branching Strategies - branch, checkout, merge
+# Part 2 - Branches
 
-We could probably spend an hour on branching strategies, and this is where most git newbies get lost, but here's how it works.
+## What Is a Branch?
 
-## Advanced commands - stash, rebase, pull requests
+Short answer is that a branch is a independant version of the code. The full set of them is called the "working tree". While git itself doesn't mandate different types of branches, we generally designate different types of branches. Common ones might be main, develop, feature, and hotfix branches.
+
+## Branch Commands - branch, checkout, merge
+
+### branch
+
+`git branch <name>` simply splits off a new branch from your current one with that name. Not terribly complex, but it's important to know that this does not actually change to that branch, only create it.
+
+### checkout
+
+`git checkout <name>` is what actually changes your code to a different branch. The `-b` modifier is extremely useful since it makes the branch and swaps to it in one step since this is usually what you want to do when creating a branch.
+
+### merge
+
+Merge let's you apply changes from one branch to another. Once you get the basics down, merging, and it's partner rebase, will be a topic you want to dig in more. I'll just get you started here.
+
+If you have checked out the desitination branch then it is simply `git merge <source branch>`. If you don't, then you can add the `--into-name <branch>` modifier.
+
+#### Merge Conflicts
+
+Git will do it's best to combine these changes, but it can't always figure out how to do so. This is usually because the branches have made changes to the same section of code. You can choose to back out of the change, but usually you have to deal with them.
+
+Conflicts will show up in files [like this](https://git-scm.com/docs/git-merge) with your version on top and the incoming change on the bottom. If you open this in an IDE like Visual Studio code it will probably try to get you to resolve the conflict. Currently, the tools in your dev environment are a solid choice for going through and fixing these issues. Git allows you to edit the changes directly in command link, or you can use whatever stand-alone tool you prefer.
+
+```
+Here are lines that are either unchanged from the common
+ancestor, or cleanly resolved because only one side changed,
+or cleanly resolved because both sides changed the same way.
+<<<<<<< yours:sample.txt
+Conflict resolution is hard;
+let's go shopping.
+=======
+Git makes conflict resolution easy.
+>>>>>>> theirs:sample.txt
+And here is another line that is cleanly resolved or unmodified.
+```
+
+## More Branch Commands - stash, rebase, pull requests
 
 ### stash
 
+Sometimes you want to save your changes with git, but you aren't ready to commit them. Maybe you need to check something on another branch real quick or (gasp) you've accidentally started working directly on main. `git stash` lets you "stash" away those changes so that you can do whatever you need and then reapply them. If you need to be more organized, you can also name your stashes and apply them specifically by name.
+
 ### rebase
 
+There is often a debate between devs whether merge or rebase is the best way to integrate remote changes into a feature branch. Usually the argument for rebase is that it removes extra merge commits, but it is also a bit trickier since it actually changes your branch history. It does also have the nice side effect of letting you get rid of all those commit messages that are just "why did I think this was a good idea at 3 AM ?!?!?!".
+
+Git merge keeps the history as it was with seperate lists of changes for each branch, rebase pretends that you split your branch from the most recent version of the source.
+
 ### pull requests (merge requests)
+
+A pull or merge request is basically a merge, but instead of doing it on your local machine you do it on the git server. It's also not applied immediately, it's just setting your intention to add the code and allows you to document the changes and why you want to make them. Other people on your team can then review the changes, comment, request additional changes and finally approve and apply the changes.
+
+Most projects will use these as part of their branching strategy. You can merge all you want into your personal version, but if you want something added to the main branch you are required to do so via a PR. They may also have a specific format they want the PR in, so check those if you intend to open a PR on someone else's repo.
+
+## Branching Strategies
+
+### What is a Branching Strategy?
+
+Branching strategies determine how a team organizes their work. There are a couple that are particularly popular, namely git-flow and GitHub flow. Since GitHub flow is simpler, we'll use that one today. It only uses two types of branches: Your main (master) branch and feature branches. For most projects this is enough to keep your code organized.
+
+### GitHub Flow Steps
+
+1. You `main` branch is always deployable, and the official recomendation is to deploy changes as soon as they are added.
+2. Your feature branches should always have descriptive names.
+3. Push your code to the server often.
+4. Make PR requests whenever you want to update the `main` branch code, or, in some cases, want to discuss a change youd like to make.
+5. Have someone other than the author review every PR before it is merged. Once it is merged, go ahead and deploy it.
