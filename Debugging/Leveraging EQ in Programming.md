@@ -18,7 +18,7 @@ There are two peaks in the debugging process: the initial discovery of the failu
 
 We will get to the emotional aspect in a moment, but I want to start with the kinds of things we think when we are in one of those spaces since this is as far as many discussions go. What we think about ourselves in those moments will be especially relevant to the discussion.
 
-![](/images/FindingABug1.png)
+![](../images/FindingABug1.png)
 
 When we first find a problem, we can find many thoughts rattling around in our heads.
 
@@ -34,7 +34,7 @@ When we first find a problem, we can find many thoughts rattling around in our h
 
 Similarly, a range of ideas can happen when we solve the issue.
 
-![](/images/FixingABug1.png)
+![](../images/FixingABug1.png)
 
 - "I wasted so much time."
 
@@ -46,9 +46,9 @@ Similarly, a range of ideas can happen when we solve the issue.
 
 However, we can take a step further and examine the emotional state behind those statements.
 
-![](/images/FindingABug2.png)
+![](../images/FindingABug2.png)
 
-![](/images/FixingABug2.png)
+![](../images/FixingABug2.png)
 
 Everything from shame to frustration, to curiosity, to confidence, and many things. Even worse, many of these thoughts and feelings can be swirling simultaneously, even if they are complete opposites, all in a single moment of discovery. We do this multiple times a day, every day that we code. Ignoring this doesn't make it go away. It just means we are controlled by these thoughts and emotions instead of leveraging them as part of the process.
 
@@ -58,11 +58,11 @@ There are multiple reasons why newer devs stay stuck in "tutorial hell," a space
 
 When I look at what coding would feel like were I to do nothing but work through tutorials, there might be some bumps when you finish a tutorial or struggle because of bad directions, but it would be a primarily flat line. It's a safe and cozy space where we don't have to cope with too many negative emotions or worry about failing.
 
-![](/images/TutorialHell.png)
+![](../images/TutorialHell.png)
 
 When we write our own code, we end up with a wavy line of ups and downs. We feel like the worst programmer that ever existed and the best. We burn with rage and find joy in simple solutions.
 
-![](/images/SoftwareDevelopment.png)
+![](../images/SoftwareDevelopment.png)
 
 As you may have noted by how I've described these two spaces, I find one of them far better to live in than the other. The reality is that we cannot have positive experiences without negative ones. Both are part of why I personally find creating things to be so compelling. The great irony of software dev is that communicating with unfeeling machines is a human process, and embracing that makes us better communicators through our code.
 
