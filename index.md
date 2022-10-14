@@ -4,7 +4,6 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 
 ## Notes:
 
-- [Async JS](./Async%20JS)
 - [Dealing With Production Issues](./Dealing%20With%20Production%20Issues)
 - [Git Basics](./Git%20Basics)
 - [Good Enough Software](./Good%20Enough%20Software)
