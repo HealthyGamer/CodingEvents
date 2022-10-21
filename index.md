@@ -1,8 +1,8 @@
-# Healthy Gamer Discord Career Events
+# Healthy Gamer Discord Tech Community Events
 
 Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthygamer.gg/discord)
 
-## Notes:
+## Notes
 
 - [Dealing With Production Issues](./Dealing%20With%20Production%20Issues)
 - [Git Basics](./Git%20Basics)
@@ -24,6 +24,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [GitHub Project Management](./GitHub-Project-Management)
 
 ## Series
+
 - [Intro to SQL](https://github.com/HealthyGamer/Intro-to_SQL){:target="_blank"}
 - [OO Design Patterns](https://docs.google.com/document/d/1qbNmm9qF6r_tG_XrAqUsfGhNRFdU-aaVLWtEoOWSugU/edit?usp=sharing){:target="_blank"}
 - [Intro to Python](https://github.com/HealthyGamer/IntroToPython){:target="_blank"}

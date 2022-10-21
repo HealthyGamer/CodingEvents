@@ -1,4 +1,6 @@
-# Why Everyone Uses Agile
+# Project Management with GitHub
+
+## Why Everyone Uses Agile
 
 Some people use some form of agile, and some use "agile," where they say the word a lot but don't apply any of the processes. This workshop isn't meant to be a deep dive into Agile- that's a whole separate topic. Today is about taking just a couple of concepts commonly used in Agile and applying them to an actual project.
 
