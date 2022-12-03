@@ -9,10 +9,6 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [Good Enough Software](./Good%20Enough%20Software)
 - [Privacy and Security for Non-Techies](./Privacy%20and%20Security)
 - [Requirements Gathering](./Requirements%20Gathering)
-- Debugging
-  - [Leveraging EQ in Programming](./Debugging/Leveraging%20EQ%20in%20Programming)
-  - [Having a Problem Solving Mindset](./Debugging/Problem%20Solving%20Mindset)
-  - Debugging Strategies (COMING SOON!)
 - [What is Computer Science?](./What%20is%20Computer%20Science)
 - [Dependency Injection](https://docs.google.com/document/d/1i7gwmMZ9zllT6ROIykrVIWGmy5uHHCPt3l-aeP2eoo4/edit?usp=sharing){:target="_blank"}
 - [Contributing to Open Source](https://docs.google.com/document/d/1pBrpcXN_8cZITywaWFL9C7Yq2L9pDfvlMy_OIjdkL0g/edit?usp=sharing){:target="_blank"}
@@ -31,5 +27,9 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [OO Design Patterns](https://docs.google.com/document/d/1qbNmm9qF6r_tG_XrAqUsfGhNRFdU-aaVLWtEoOWSugU/edit?usp=sharing){:target="_blank"}
 - [Intro to Python](https://github.com/HealthyGamer/IntroToPython){:target="_blank"}
 - [Unit Testing](https://github.com/HealthyGamer/UnitTesting){:target="_blank"}
+- - Debugging
+  - [Leveraging EQ in Programming](./Debugging/Leveraging%20EQ%20in%20Programming)
+  - [Having a Problem Solving Mindset](./Debugging/Problem%20Solving%20Mindset)
+  - Debugging Strategies (COMING SOON!)
 
 **Looking for career event notes? You can find those [here](https://healthygamer.github.io/CareerEvents/)!**
