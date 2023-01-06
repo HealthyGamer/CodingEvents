@@ -20,6 +20,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [Stack Overflow - Writing Good Questions and Answers](./Surviving%20Stack%20Overflow)
 - [How the Internet Works](./How%20the%20Internet%20Works)
 - [Monoliths and Microservices](./Monoliths%20and%20Microservices)
+- [Naming Things](./Naming%20Things)
 
 ## Series
 
@@ -27,7 +28,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [OO Design Patterns](https://docs.google.com/document/d/1qbNmm9qF6r_tG_XrAqUsfGhNRFdU-aaVLWtEoOWSugU/edit?usp=sharing){:target="_blank"}
 - [Intro to Python](https://github.com/HealthyGamer/IntroToPython){:target="_blank"}
 - [Unit Testing](https://github.com/HealthyGamer/UnitTesting){:target="_blank"}
-  - - Debugging
+    - - Debugging
   - [Leveraging EQ in Programming](./Debugging/Leveraging%20EQ%20in%20Programming)
   - [Having a Problem Solving Mindset](./Debugging/Problem%20Solving%20Mindset)
   - Debugging Strategies (COMING SOON!)

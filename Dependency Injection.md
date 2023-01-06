@@ -145,7 +145,7 @@ class Main {
 
 (Dependency Inversion Principle)
 
-Coding principle that a client should not need to decide on what implementation of a service it should use. Dependency injection is an implementation of this principle. 
+Coding principle that a client should not need to decide on what implementation of a service it should use. Dependency injection is an implementation of this principle.
 
 <https://en.wikipedia.org/wiki/Inversion_of_control>
 
