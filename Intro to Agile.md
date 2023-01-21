@@ -9,6 +9,7 @@
 ## Resources
 
 <https://www.atlassian.com/agile>
+
 <https://agilemanifesto.org/>
 
 ## What is Agile?
