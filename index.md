@@ -28,10 +28,12 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 ## Series
 
 - [Intro to SQL](https://github.com/HealthyGamer/Intro-to_SQL){:target="_blank"}
-- [OO Design Patterns](https://docs.google.com/document/d/1qbNmm9qF6r_tG_XrAqUsfGhNRFdU-aaVLWtEoOWSugU/edit?usp=sharing){:target="_blank"}
 - [Intro to Python](https://github.com/HealthyGamer/IntroToPython){:target="_blank"}
+- [Intro to C#](https://github.com/HealthyGamer/IntroToCSharp){:target="_blank"}
+- [OO Design Patterns](https://docs.google.com/document/d/1qbNmm9qF6r_tG_XrAqUsfGhNRFdU-aaVLWtEoOWSugU/edit?usp=sharing){:target="_blank"}
 - [Unit Testing](https://github.com/HealthyGamer/UnitTesting){:target="_blank"}
-  - - Debugging
+- [Structure and Interpretation of Comuter Programs(SICP)](https://github.com/HealthyGamer/SICP){:target="_blank"}
+- Debugging
   - [Leveraging EQ in Programming](./Debugging/Leveraging%20EQ%20in%20Programming)
   - [Having a Problem Solving Mindset](./Debugging/Problem%20Solving%20Mindset)
   - Debugging Strategies (COMING SOON!)
