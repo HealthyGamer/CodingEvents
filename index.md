@@ -23,6 +23,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [Naming Things](./Naming%20Things)
 - [Intro to Agile](./Intro%20to%20Agile)
 - [Intro to Power BI](./Intro%20to%20Power%20BI)
+- [Domain Driven Design](./Domain%20Driven%20Design)
 
 ## Series
 
