@@ -13,7 +13,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [Dependency Injection](./Dependency%20Injection)
 - [Contributing to Open Source](https://docs.google.com/document/d/1pBrpcXN_8cZITywaWFL9C7Yq2L9pDfvlMy_OIjdkL0g/edit?usp=sharing){:target="_blank"}
 - [How to Do Tech Research](./How%20to%20Research%20Tech%20Stuff)
-- [Writing a Tech Talk](https://docs.google.com/document/d/15v9sFctBND7CGZknolRayhmU58OBjC-guNmEi689Ols/edit?usp=sharing){:target="_blank"}
+- [Writing a Tech Talk](./Creating%20a%20Tech%20Talk)
 - [Creating a New Project](https://docs.google.com/document/d/1jrHT3bL36p2UipcLZjJxIupY5VgSCvrPmBIHkWWLQI8/edit?usp=sharing){:target="_blank"}
 - [Function vs. Object Oriented Programing](https://docs.google.com/document/d/1DGiqUdvWoTkeAL2cDCIVwrf4xk2mZvdia_MfAriJKQc/edit?usp=sharing){:target="_blank"}
 - [GitHub Project Management](./GitHub-Project-Management)
