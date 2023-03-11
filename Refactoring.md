@@ -2,7 +2,7 @@
 
 Refactoring is an ongoing editing process in software development. As time goes on, code changes and grows. This can cause issues if it isn't updated to clean up after those changes and make space for future growth.
 
-## When to Refactor? 
+## When to Refactor?
 
 ### Indicators that refactoring is needed
 
