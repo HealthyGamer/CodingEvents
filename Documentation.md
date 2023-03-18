@@ -32,3 +32,11 @@ The rest of this content will focus on developer docs, but similar principles al
 - API reference documentation: If the project exposes an API, documentation on the API endpoints, inputs, outputs, and authentication mechanisms should be provided.
 - Samples and tutorials: In addition to the getting started guide, there are other common scenarios that your users may run into. Sample code for those scenarios can help with adoption.
 - Troubleshooting guide: A guide that provides solutions to common problems developers may encounter while working on the project.
+
+## Leveling Up Your Docs
+
+- Automate what you can: Tools like [Swagger](https://swagger.io/) help automate the process of documenting parts of your system, in this case the API. Automating docs means seting it up once will save significant time down the road.
+- Don't document too early: Early in a project things will change quickly and docs will go out of date too fast to be worth it.
+- Turn questions into documentation: DRY (Don't Repeat Yourself) applies to documentation as well. Answering the same question multiple times means it should go in the docs or the documentation is unclear.
+- Add snippets, tables, and diagrams: Developers often prefer to copy/paste code, so give them something to use. It also improves understanding of difficult concepts.
+- QA the docs: What makes sense to one person may not may not make sense to another. Having someone unfamiliar with the project try to use it will give valuable information on what can improve.
