@@ -26,6 +26,8 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [Domain Driven Design](./Domain%20Driven%20Design)
 - [Refactoring](./Refactoring)
 - [Documenation Layer](./Documentation)
+- [MVC](./MVC)
+- [Data Analytics Storage](./Data%20Analytics%20Storage)
 
 ## Series
 
