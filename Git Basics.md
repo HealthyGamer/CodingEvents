@@ -71,6 +71,8 @@ Technically anyone can run a git server themselves, but most of us don't bother.
 
 `git commit -m "<commit message>"` tells git to take a snapshot of the current version of the code. Once we've created a commit we can return to that state at any point. You always include a message along with that to indicate what/why you've made those changes so other people know what is happenning.
 
+![image of git branch](./images/git/Branch.png)
+
 ### push
 
 `git push` is the final step in making changes. It takes all the commits you've made on your machine and sends them back to your remote source. This allows other people to access those changes and update their own copies.
@@ -80,6 +82,8 @@ Technically anyone can run a git server themselves, but most of us don't bother.
 ## What Is a Branch?
 
 Short answer is that a branch is a independant version of the code. The full set of them is called the "working tree". While git itself doesn't mandate different types of branches, we generally designate different types of branches. Common ones might be main, develop, feature, and hotfix branches.
+
+![image of git feature branch](./images/git/Feature.png)
 
 ## Branch Commands - branch, checkout, merge
 
@@ -96,6 +100,8 @@ Short answer is that a branch is a independant version of the code. The full set
 Merge let's you apply changes from one branch to another. Once you get the basics down, merging, and it's partner rebase, will be a topic you want to dig in more. I'll just get you started here.
 
 If you have checked out the desitination branch then it is simply `git merge <source branch>`. If you don't, then you can add the `--into-name <branch>` modifier.
+
+![image of git branches being merged](./images/git/Merge.png)
 
 #### Merge Conflicts
 
@@ -127,6 +133,8 @@ Sometimes you want to save your changes with git, but you aren't ready to commit
 There is often a debate between devs whether merge or rebase is the best way to integrate remote changes into a feature branch. Usually the argument for rebase is that it removes extra merge commits, but it is also a bit trickier since it actually changes your branch history. It does also have the nice side effect of letting you get rid of all those commit messages that are just "why did I think this was a good idea at 3 AM ?!?!?!".
 
 Git merge keeps the history as it was with seperate lists of changes for each branch, rebase pretends that you split your branch from the most recent version of the source.
+
+![image of a git rebase](./images/git/Rebase.png)
 
 ### pull requests (merge requests)
 
