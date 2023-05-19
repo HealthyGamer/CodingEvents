@@ -28,6 +28,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [Documenation Layer](./Documentation)
 - [MVC](./MVC)
 - [Data Analytics Storage](./Data%20Analytics%20Storage)
+- [Breaking Projects into Tasks](./Projects%20to%20Tasks.md)
 
 ## Series
 
@@ -40,6 +41,5 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - Debugging
   - [Leveraging EQ in Programming](./Debugging/Leveraging%20EQ%20in%20Programming)
   - [Having a Problem Solving Mindset](./Debugging/Problem%20Solving%20Mindset)
-  - Debugging Strategies (COMING SOON!)
 
 **Looking for career event notes? You can find those [here](https://healthygamer.github.io/CareerEvents/)!**
