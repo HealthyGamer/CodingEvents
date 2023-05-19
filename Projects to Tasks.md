@@ -10,13 +10,12 @@ It's important to remember that a critical component of working with an agile fr
 
 In business, several layers exist between the overall strategy and day-to-day tasks. While we'll only focus on the bottom three, knowing that the project needs to function within a larger context is helpful.
 
-
-Strategy: The strategy layer defines a business's goals, objectives, and vision. It sets the direction and long-term project planning, considering market analysis, competition, and business objectives. This layer provides the high-level framework within which projects are executed.
-Portfolio: The portfolio layer focuses on managing a collection of projects within an organization. It involves prioritizing, selecting, and aligning projects with the company's strategic objectives. The portfolio layer ensures that resources, budgets, and timelines are allocated effectively across various projects to maximize overall organizational success.
-Product: The product layer revolves around developing and delivering a specific product or service. It includes defining the product requirements, identifying the target market, conducting market research, and creating a product roadmap. The product layer ensures that the final output meets customer needs and aligns with the organization's overall strategy.
-Project: The project layer represents the specific initiatives or endeavors to achieve the desired product or outcome. It involves planning, organizing, and executing the project activities, assigning resources, and managing the project timeline and budget. The project layer focuses on delivering the desired results within the defined constraints.
-Iteration: The iteration layer refers to the repetitive cycles or sprints within a project's timeline. It involves breaking down the project into smaller, manageable parts and working on them in iterative cycles. Each iteration typically lasts for a fixed duration, resulting in a working deliverable or increment of the final product. The iteration layer allows feedback, learning, and adaptation throughout the project's execution.
-Day: The day layer represents a project's daily activities and tasks. It involves the day-to-day execution, coordination, and collaboration among team members. The day layer focuses on completing specific tasks, addressing challenges, and ensuring progress toward the project's objectives. Daily activities can include meetings, discussions, task assignments, and updates on project status.
+- Strategy: The strategy layer defines a business's goals, objectives, and vision. It sets the direction and long-term project planning, considering market analysis, competition, and business objectives. This layer provides the high-level framework within which projects are executed.
+- Portfolio: The portfolio layer focuses on managing a collection of projects within an organization. It involves prioritizing, selecting, and aligning projects with the company's strategic objectives. The portfolio layer ensures that resources, budgets, and timelines are allocated effectively across various projects to maximize overall organizational success.
+- Product: The product layer revolves around developing and delivering a specific product or service. It includes defining the product requirements, identifying the target market, conducting market research, and creating a product roadmap. The product layer ensures that the final output meets customer needs and aligns with the organization's overall strategy.
+- Project: The project layer represents the specific initiatives or endeavors to achieve the desired product or outcome. It involves planning, organizing, and executing the project activities, assigning resources, and managing the project timeline and budget. The project layer focuses on delivering the desired results within the defined constraints.
+- Iteration (Sprint): The iteration layer refers to the repetitive cycles or sprints within a project's timeline. It involves breaking down the project into smaller, manageable parts and working on them in iterative cycles. Each iteration typically lasts for a fixed duration, resulting in a working deliverable or increment of the final product. The iteration layer allows feedback, learning, and adaptation throughout the project's execution.
+- Day: The day layer represents a project's daily activities and tasks. It involves the day-to-day execution, coordination, and collaboration among team members. The day layer focuses on completing specific tasks, addressing challenges, and ensuring progress toward the project's objectives. Daily activities can include meetings, discussions, task assignments, and updates on project status.
 
 ## Understand the Project
 
@@ -62,10 +61,10 @@ Finally, team members can pick up individual tasks throughout the sprint and wor
 
 ## Key Takeaways
 
-Agile project planning has three primary levels: the overall project, stories, and specific tasks.
-Things like project planning documents and SMART goals help guide the process of ensuring the project has a specific set of desired results and timelines.
-Stories break the project into more specific *results* which are small enough to prioritize and schedule. It prevents working on low-priority/low-value tasks while more important work is waiting. It is also easier to communicate and adjust stories than a single task.
-When it is time to work on a story, it gets broken out into individual tasks, which include any information necessary for completing that task.
+- Agile project planning has three primary levels: the overall project, stories, and specific tasks.
+- Things like project planning documents and SMART goals help guide the process of ensuring the project has a specific set of desired results and timelines.
+- Stories break the project into more specific *results* which are small enough to prioritize and schedule. It prevents working on low-priority/low-value tasks while more important work is waiting. It is also easier to communicate and adjust stories than a single task.
+- When it is time to work on a story, it gets broken out into individual tasks, which include any information necessary for completing that task.
 
 ## Examples
 
@@ -76,8 +75,8 @@ Here are a shortened examples of how this could be applied to a specific scenari
 #### Project Objectives
 
 - Each week there should be two events on average.
-    - One will be a series like an intro to a specific programing language.
-    - The other will be on an individual topic that could be about programming, data, soft skills, tech in general, or project management.
+  - One will be a series like an intro to a specific programing language.
+  - The other will be on an individual topic that could be about programming, data, soft skills, tech in general, or project management.
 - Each event should have a title, description, and notes.
 - Events should be posted at least 3 days ahead of time.
 
@@ -86,7 +85,6 @@ Here are a shortened examples of how this could be applied to a specific scenari
 - Community members should be able to understand what the topic will be and what previous experience is required to understand the topic.
 - Community members should be able to access notes during and after the event which contain all the main points covered.
 - Event attendees be able to improve their understanding of the topic, focused on the items listed in the event description.
-
 
 #### Tasks (Partial List)
 
