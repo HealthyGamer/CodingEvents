@@ -28,7 +28,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [Documenation Layer](./Documentation)
 - [MVC](./MVC)
 - [Data Analytics Storage](./Data%20Analytics%20Storage)
-- [Breaking Projects into Tasks](./Projects%20to%20Tasks.md)
+- [Breaking Projects into Tasks](./Projects%20to%20Tasks)
 
 ## Series
 
