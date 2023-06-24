@@ -14,7 +14,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [Contributing to Open Source](https://docs.google.com/document/d/1pBrpcXN_8cZITywaWFL9C7Yq2L9pDfvlMy_OIjdkL0g/edit?usp=sharing){:target="_blank"}
 - [How to Do Tech Research](./How%20to%20Research%20Tech%20Stuff)
 - [Writing a Tech Talk](./Creating%20a%20Tech%20Talk)
-- [Creating a New Project](https://docs.google.com/document/d/1jrHT3bL36p2UipcLZjJxIupY5VgSCvrPmBIHkWWLQI8/edit?usp=sharing){:target="_blank"}
+- [Creating Your First Project](./Creating%20Your%20First%20Project.)
 - [Function vs. Object Oriented Programing](https://docs.google.com/document/d/1DGiqUdvWoTkeAL2cDCIVwrf4xk2mZvdia_MfAriJKQc/edit?usp=sharing){:target="_blank"}
 - [GitHub Project Management](./GitHub-Project-Management)
 - [Stack Overflow - Writing Good Questions and Answers](./Surviving%20Stack%20Overflow)
