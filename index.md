@@ -30,6 +30,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [Data Analytics Storage](./Data%20Analytics%20Storage)
 - [Breaking Projects into Tasks](./Projects%20to%20Tasks)
 - [The Power of MVPs](./Power%20of%20MVPs)
+- [Keeping Code DRY](./keeping-code-dry)
 
 ## Series
 
