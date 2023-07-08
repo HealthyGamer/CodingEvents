@@ -40,17 +40,17 @@ DRY code tends to be less complex, as it minimizes the number of different secti
 
 By reducing the redundant code, the DRY principle makes the code more readable. This is crucial for onboarding new team members and for the ongoing maintenance of the codebase. Less redundant code means less to read, understand, and remember.
 
-## Costs of Ignoring the DRY Principle
+### Costs of Ignoring the DRY Principle
 
-### Code Duplication
+#### Code Duplication
 
 Ignoring the DRY principle leads to code duplication. Duplication means more places to update when changes are needed, increasing the chance of errors and inconsistencies.
 
-### Increase in Bug Possibilities
+#### Increase in Bug Possibilities
 
 Duplicated code increases the chances of bugs. If a bug is fixed in one place but not another, the software may behave unexpectedly. This also means more places to test, increasing the workload for Quality Assurance (QA) teams.
 
-### Decrease in Code Flexibility
+#### Decrease in Code Flexibility
 
 A code that doesn't follow the DRY principle is less flexible and adaptable. Changes require more work, and there's a higher risk of introducing bugs, which can slow development and make it harder to respond to changing requirements.
 
