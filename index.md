@@ -32,6 +32,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [The Power of MVPs](./Power%20of%20MVPs)
 - [Keeping Code DRY](./keeping-code-dry)
 - [Insights into Agile Project Estimation: Techniques, Tips, and Tools](./agile-estimation.md)
+- [The Power of Developer-Driven Design and Development in Software Creation](./devDrivenDesign.md)
 
 ## Series
 
