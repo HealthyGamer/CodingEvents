@@ -57,14 +57,14 @@ The synergy between technical knowledge and business strategy is potent. Creatin
 
 (Some of these may be a bit technical for a non-dev audience, and many reference the term in passing without really defining it.)
 
--[Design Led Agile](https://www.davidbrebner.com/?p=2072)
--[Design is the new delineator](https://bootcamp.uxdesign.cc/design-is-the-new-delineator-eb2a2bfdeb78)
--[Developer-driven development](https://hackernoon.com/development-driven-development-75c01b2afca1)
--[The Passionate Programmer (Part 2)](https://www.goodreads.com/en/book/show/6399113)
--[Pragmatic Programmer (Good-Enough Software)](https://www.goodreads.com/en/book/show/4099)
--[Design Thinking Use in Agile Software Projects: Software Developers’ Perception](https://www.scitepress.org/Papers/2020/93875/93875.pdf)
+- [Design Led Agile](https://www.davidbrebner.com/?p=2072)
+- [Design is the new delineator](https://bootcamp.uxdesign.cc/design-is-the-new-delineator-eb2a2bfdeb78)
+- [Developer-driven development](https://hackernoon.com/development-driven-development-75c01b2afca1)
+- [The Passionate Programmer (Part 2)](https://www.goodreads.com/en/book/show/6399113)
+- [Pragmatic Programmer (Good-Enough Software)](https://www.goodreads.com/en/book/show/4099)
+- [Design Thinking Use in Agile Software Projects: Software Developers’ Perception](https://www.scitepress.org/Papers/2020/93875/93875.pdf)
 
 ### Related HG Events
 
--[Requirements Gathering](https://healthygamer.github.io/CodingEvents/Requirements%20Gathering)
+- [Requirements Gathering](https://healthygamer.github.io/CodingEvents/Requirements%20Gathering)
 - [Creating “Good Enough” Software](https://healthygamer.github.io/CodingEvents/Good%20Enough%20Software)
