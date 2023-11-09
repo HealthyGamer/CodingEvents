@@ -4,6 +4,7 @@
   - Communication is Key
   - Documentation
   - Human Memory
+  - AI Integration
 - Basics
   - Follow the Style Guide
   - Match the Business's Terms
@@ -37,6 +38,12 @@ Jobs are notorious for not allowing time for devs to write documentation. Even w
 ### Human Memory
 
 While documentation is about more than function names, it is still essential. One way that it acts as helpful documentation is that a good name is easy to remember. Unrelated names, or worse, random strings, are tough to keep track of. Having to constantly double-check what something means interrupts the workflow, so we want to minimize it.
+
+### AI Integration
+
+Tools like GitHub CoPilot make guesses around what code you want to write based on context. Part of that context is the names of your variables, functions, and classes. If you name things well, it will be able to make better suggestions. On the flip side, if you name things poorly, it will make worse suggestions and you will need to do more work to correct it.
+
+![CoPilot Example](./images/CopilotTextSuggestion.png)
 
 ## Basics
 
