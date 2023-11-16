@@ -34,6 +34,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [Insights into Agile Project Estimation: Techniques, Tips, and Tools](./agile-estimation)
 - [The Power of Developer-Driven Design and Development in Software Creation](./devDrivenDesign)
 - [What is DevOps?](./whatIsDevOps)
+- [CI/CD Basics](./CICD-Basics)
 
 ## Series
 
