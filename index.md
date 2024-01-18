@@ -36,6 +36,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [What is DevOps?](./whatIsDevOps)
 - [CI/CD Basics](./CICD-Basics)
 - [What to do When You Screw Up](./When-You-Screwed-Up)
+- [Tech Jobs That Aren't Coding Focused](./lowCodeProfessions)
 
 ## Series
 
