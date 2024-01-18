@@ -1,4 +1,4 @@
-# Tech Proffesions That Don't Require Much Coding
+# Tech Profesions That Don't Require Much Coding
 
 ## Technical Writing
 
