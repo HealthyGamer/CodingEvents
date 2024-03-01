@@ -37,6 +37,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [CI/CD Basics](./CICD-Basics)
 - [What to do When You Screw Up](./When-You-Screwed-Up)
 - [Tech Jobs That Aren't Coding Focused](./lowCodeProfessions)
+- [Getting Involved in the Tech Community](./getting-involved-in-tech-community)
 
 ## Series
 
