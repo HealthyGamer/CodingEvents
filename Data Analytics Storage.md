@@ -35,3 +35,5 @@ Data lakes solved the scale problem and are more useful for machine learning, bu
 Data Lakehouse is an emerging style of data storage that attempts to combine the benefits of both data lakes and data warehouses. The foundation of a lakehouse is a data lake to support the exabytes of data that data lakes can currently contain.
 
 The first innovation in this direction is technologies like delta lake, which combines Apache Spark for data processing with parquet file formats to create data lake layers that support transactions and data quality controls while maintaining a compact data format. This tool is ideal for ML uses since it solves the data quality problems of data lakes and the data access problems from data warehouses. Current work focuses on allowing a lakehouse to provide more effective analytics data with tools like caching and indexes.
+
+<https://www.ibm.com/topics/data-lakehouse#:~:text=A%20data%20lakehouse%20typically%20consists,architectural%20pattern%20of%20data%20lakehouses.>
