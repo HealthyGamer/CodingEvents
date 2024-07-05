@@ -4,25 +4,34 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 
 ## Notes
 
+### Tech Basics
+
+- [Git Basics](./getting-started/Git%20Basics)
+- [What is Computer Science?](./getting-started/What%20is%20Computer%20Science)
+- [Creating Your First Project](./getting-started/Creating%20Your%20First%20Project)
+- [Intro to Agile](./getting-started/Intro%20to%20Agile)
+- [Intro to Power BI](./getting-started/Intro%20to%20Power%20BI)
+- [Tech Jobs That Aren't Coding Focused](./getting-started/lowCodeProfessions)
+- [Getting Involved in the Tech Community](./getting-started/getting-involved-in-tech-community)
+- [What is DevOps?](./getting-started/whatIsDevOps)
+- [Demystifying the Cloud](./getting-started/demystifying-the-cloud)
+
+### Other Tech Talks
+
 - [Dealing With Production Issues](./Dealing%20With%20Production%20Issues)
-- [Git Basics](./Git%20Basics)
 - [Good Enough Software](./Good%20Enough%20Software)
 - [Privacy and Security for Non-Techies](./Privacy%20and%20Security)
 - [Requirements Gathering](./Requirements%20Gathering)
-- [What is Computer Science?](./What%20is%20Computer%20Science)
 - [Dependency Injection](./Dependency%20Injection)
 - [Contributing to Open Source](https://docs.google.com/document/d/1pBrpcXN_8cZITywaWFL9C7Yq2L9pDfvlMy_OIjdkL0g/edit?usp=sharing){:target="_blank"}
 - [How to Do Tech Research](./How%20to%20Research%20Tech%20Stuff)
 - [Writing a Tech Talk](./Creating%20a%20Tech%20Talk)
-- [Creating Your First Project](./Creating%20Your%20First%20Project)
 - [Function vs. Object Oriented Programing](https://docs.google.com/document/d/1DGiqUdvWoTkeAL2cDCIVwrf4xk2mZvdia_MfAriJKQc/edit?usp=sharing){:target="_blank"}
 - [GitHub Project Management](./GitHub-Project-Management)
 - [Stack Overflow - Writing Good Questions and Answers](./Surviving%20Stack%20Overflow)
 - [How the Internet Works](./How%20the%20Internet%20Works)
 - [Monoliths and Microservices](./Monoliths%20and%20Microservices)
 - [Naming Things](./Naming%20Things)
-- [Intro to Agile](./Intro%20to%20Agile)
-- [Intro to Power BI](./Intro%20to%20Power%20BI)
 - [Domain Driven Design](./Domain%20Driven%20Design)
 - [Refactoring](./Refactoring)
 - [Documenation Layer](./Documentation)
@@ -33,11 +42,8 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [Keeping Code DRY](./keeping-code-dry)
 - [Insights into Agile Project Estimation: Techniques, Tips, and Tools](./agile-estimation)
 - [The Power of Developer-Driven Design and Development in Software Creation](./devDrivenDesign)
-- [What is DevOps?](./whatIsDevOps)
 - [CI/CD Basics](./CICD-Basics)
 - [What to do When You Screw Up](./When-You-Screwed-Up)
-- [Tech Jobs That Aren't Coding Focused](./lowCodeProfessions)
-- [Getting Involved in the Tech Community](./getting-involved-in-tech-community)
 
 ## Series
 
