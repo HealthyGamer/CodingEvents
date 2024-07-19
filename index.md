@@ -44,6 +44,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [The Power of Developer-Driven Design and Development in Software Creation](./devDrivenDesign)
 - [CI/CD Basics](./CICD-Basics)
 - [What to do When You Screw Up](./When-You-Screwed-Up)
+- [Why Devs are Obsessed with Rubber Ducks](./offline-tools.md)
 
 ## Series
 
