@@ -46,6 +46,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [What to do When You Screw Up](./When-You-Screwed-Up)
 - [Why Devs are Obsessed with Rubber Ducks](./offline-tools.md)
 - [Managing Tech Debt Effectively](./tech-debt.md)
+- [Why You Should Test Your Sh*t](./why-test.md)
 
 ## Series
 
