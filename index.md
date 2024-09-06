@@ -15,6 +15,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [Getting Involved in the Tech Community](./getting-started/getting-involved-in-tech-community)
 - [What is DevOps?](./getting-started/whatIsDevOps)
 - [Demystifying the Cloud](./getting-started/demystifying-the-cloud)
+- [What is a Compiler?](./getting-started/compiler-basics)
 
 ### Other Tech Talks
 
