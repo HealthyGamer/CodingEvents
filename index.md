@@ -48,6 +48,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [Why Devs are Obsessed with Rubber Ducks](./offline-tools.md)
 - [Managing Tech Debt Effectively](./tech-debt.md)
 - [Why You Should Test Your Sh*t](./why-test.md)
+- [Event Driven Architecture](./event-driven-architecture.md)
 
 ## Series
 
