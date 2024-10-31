@@ -54,6 +54,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [CI/CD Basics](./CICD-Basics)
 - [Why You Should Test Your Sh*t](./why-test)
 - [Event Driven Architecture](./event-driven-architecture)
+- [Building a Professional Knowledge Base](./knowledge-base)
 
 ## Series
 
