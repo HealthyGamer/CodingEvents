@@ -57,9 +57,10 @@ Establish a system for storing external resources like articles, PDFs, and video
 ### Choosing the Right Tool
 
 Select a platform that aligns with your workflow and preferences. Some popular options include:
-Notion: Offers a versatile workspace with databases, calendars, and rich text editing.
-OneNote: Provides a free-form information-gathering system that integrates well with other Microsoft products.
-Obsidian: Utilizes plain text Markdown files stored locally, ideal for those who prefer simplicity and control over their data.
+
+- Notion: Offers a versatile workspace with databases, calendars, and rich text editing.
+- OneNote: Provides a free-form information-gathering system that integrates well with other Microsoft products.
+- Obsidian: Utilizes plain text Markdown files stored locally, ideal for those who prefer simplicity and control over their data.
 
 ### Tagging and Categorization
 
