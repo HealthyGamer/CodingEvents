@@ -16,6 +16,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [What is DevOps?](./getting-started/whatIsDevOps)
 - [Demystifying the Cloud](./getting-started/demystifying-the-cloud)
 - [What is a Compiler?](./getting-started/compiler-basics)
+- [CI/CD Basics](./getting-started/CICD-Basics)
 
 ### Soft Skills
 
@@ -51,7 +52,6 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [The Power of MVPs](./Power%20of%20MVPs)
 - [Keeping Code DRY](./keeping-code-dry)
 - [The Power of Developer-Driven Design and Development in Software Creation](./devDrivenDesign)
-- [CI/CD Basics](./CICD-Basics)
 - [Why You Should Test Your Sh*t](./why-test)
 - [Event Driven Architecture](./event-driven-architecture)
 - [Building a Professional Knowledge Base](./knowledge-base)
