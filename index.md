@@ -56,6 +56,7 @@ Join the Discord here: [https://www.healthygamer.gg/discord](https://www.healthy
 - [Event Driven Architecture](./event-driven-architecture)
 - [Building a Professional Knowledge Base](./knowledge-base)
 - [Principal of Software Architecture](./software-architecture)
+- [Database Indexes](./database-indexes)
 
 ## Series
 
