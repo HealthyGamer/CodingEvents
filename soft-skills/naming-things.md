@@ -43,7 +43,7 @@ While documentation is about more than function names, it is still essential. On
 
 Tools like GitHub CoPilot make guesses around what code you want to write based on context. Part of that context is the names of your variables, functions, and classes. If you name things well, it will be able to make better suggestions. On the flip side, if you name things poorly, it will make worse suggestions and you will need to do more work to correct it.
 
-![CoPilot Example](./images/CopilotTextSuggestion.png)
+![CoPilot Example](../images/CopilotTextSuggestion.png)
 
 ## Basics
 
