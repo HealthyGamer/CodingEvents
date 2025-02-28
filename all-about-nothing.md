@@ -33,7 +33,7 @@ my_variable = None
 
 ```javascript
 // JavaScript has both null and undefined
-let noValueAssigned;  // undefined
+let noValueAssigned; // undefined
 let explicitlyEmpty = null;
 ```
 
@@ -59,9 +59,9 @@ Empty values often have unique behaviors that can surprise new programmers:
 ### Zero
 
 ```javascript
-0 + 5    // equals 5
-0 * 100  // equals 0
-5 / 0    // uh oh - infinity or error, depending on the language!
+0 + 5     // equals 5
+0 * 100   // equals 0
+5 / 0     // uh oh - infinity or error, depending on the language!
 ```
 
 ### Null Checking
@@ -69,14 +69,14 @@ Empty values often have unique behaviors that can surprise new programmers:
 ```python
 # In Python
 if user.middle_name is None:
-    print("No middle name provided")
+  print("No middle name provided")
 ```
 
 ### Undefined References
 
 ```javascript
 // In JavaScript
-console.log(nonExistentVariable)  // Throws "ReferenceError: nonExistentVariable is not defined."
+console.log(nonExistentVariable) // Throws "ReferenceError: nonExistentVariable is not defined."
 ```
 
 ### Falsey Values
@@ -85,19 +85,19 @@ Different languages treat empty values differently in conditional statements:
 
 ```python
 # In Python, these all evaluate as False
-if 0:          # False
-if None:       # False
-if "":         # False
-if []:         # False
+if 0:           # False
+if None:        # False
+if "":          # False
+if []:          # False
 ```
 
 ```javascript
 // In JavaScript
-if (0)         // False
-if (null)      // False
-if (undefined) // False
-if ("")        // False
-if ([])        // True! Empty arrays are truthy in JavaScript
+if (0)          // False
+if (null)       // False
+if (undefined)  // False
+if ("")         // False
+if ([])         // True! Empty arrays are truthy in JavaScript
 ```
 
 This inconsistency across languages is a common source of bugs when switching between programming languages.
@@ -109,7 +109,7 @@ Some languages let operations with null values fail silently:
 ```javascript
 // JavaScript
 let obj = null;
-console.log(obj?.property);  // Undefined, no error with optional chaining
+console.log(obj?.property); // Undefined, no error with optional chaining
 ```
 
 Others throw exceptions:
@@ -117,7 +117,7 @@ Others throw exceptions:
 ```java
 // Java
 Object obj = null;
-System.out.println(obj.toString());  // NullPointerException!
+System.out.println(obj.toString()); // NullPointerException!
 ```
 
 ## The Cost of Nothing: Common Bugs
@@ -146,10 +146,10 @@ Always check for nulls before using values:
 
 ```javascript
 function getUsername(user) {
-  if (user && user.profile && user.profile.username) {
-    return user.profile.username;
+  if (user && user.profile && user.profile.username) {
+    return user.profile.username;
  }
-  return "Guest";
+  return "Guest";
 }
 ```
 
@@ -159,11 +159,11 @@ Instead of using null, create a "null object" that implements the same interface
 
 ```python
 class NullUser:
-    def get_name(self):
-        return "Guest"
-    
-    def get_permissions(self):
-        return []
+  def get_name(self):
+    return "Guest"
+
+  def get_permissions(self):
+    return []
 
 # Now we can use this instead of null
 current_user = actual_user or NullUser()
@@ -176,17 +176,17 @@ Functional programming languages often use a type that explicitly represents "a 
 ```rust
 // Rust
 fn find_user(id: i32) -> Option<User> {
-    if id_exists(id) {
-        Some(User { id })
- } else {
-        None
- }
+  if id_exists(id) {
+    Some(User { id })
+  } else {
+    None
+  }
 }
 
 // Now the caller must explicitly handle both cases
 match find_user(123) {
-    Some(user) => println!("Found user: {}", user.name),
-    None => println!("User not found"),
+  Some(user) => println!("Found user: {}", user.name),
+  None => println!("User not found"),
 }
 ```
 
@@ -196,13 +196,13 @@ Check for invalid states early and return immediately:
 
 ```javascript
 function processOrder(order) {
-  // Guard clauses
-  if (!order) return "Invalid order";
-  if (!order.items) return "Order has no items";
-  if (order.items.length === 0) return "Order is empty";
-  
-  // Now we can safely process the order
-  // ...
+  // Guard clauses
+  if (!order) return "Invalid order";
+  if (!order.items) return "Order has no items";
+  if (order.items.length === 0) return "Order is empty";
+  
+  // Now we can safely process the order
+  // ...
 }
 ```
 
@@ -213,12 +213,12 @@ Modern static analysis tools can find potential null reference errors before the
 ```typescript
 // TypeScript
 function greet(name: string | null): string {
-  // The compiler will warn if we try to use name without checking
-  if (name === null) {
-    return "Hello, stranger!";
- }
-  
-  return `Hello, ${name}!`;
+  // The compiler will warn if we try to use name without checking
+  if (name === null) {
+    return "Hello, stranger!";
+  }
+
+  return `Hello, ${name}!`;
 }
 ```
 
